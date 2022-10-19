@@ -1,0 +1,26 @@
+_repo: The-Moon_69102
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farrington, Oliver Cummings
+    gutenberg_agent_id: '55102'
+    url: http://www.gutenberg.org/2009/agents/55102
+description: ''
+gutenberg_issued: '2022-10-07'
+identifiers:
+  gutenberg: '69102'
+language: en
+pgterms:marc904: https://archive.org/details/moon06farr
+pgterms:marc905: 20220918185652farrington
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Thomas Cosmas compiled from materials made available on The Internet
+  Archive and placed in the Public Domain.
+publication_note: 'United States :Chicago: Field Museum of Natural History,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Moon
+url: http://www.gutenberg.org/ebooks/69102
